@@ -82,3 +82,96 @@ This enables the analysis of:
 
 # Repository Structure
 
+```
+.
+├── Untitled.ipynb
+├── data/
+├── results/
+└── README.md
+```
+
+---
+
+# Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/finsler_neuron_connectivity.git
+cd finsler_neuron_connectivity
+pip install numpy pandas matplotlib scipy scikit-learn gudhi ripser jupyter
+```
+
+Install dependencies:
+
+```bash
+pip install numpy pandas matplotlib scipy scikit-learn gudhi ripser jupyter
+```
+
+---
+
+# Running the Notebook
+
+Start Jupyter:
+
+```bash
+jupyter notebook
+```
+
+Then open:
+
+```
+osi_betti.ipynb
+```
+
+---
+
+# Applications
+
+This framework can be used for:
+
+* neuronal connectivity analysis
+* visual cortex analysis
+* stimulus comparison
+* brain topology studies
+
+---
+
+# Future Work
+
+Possible extensions include:
+
+* persistent diagrams
+* OSI-based filtrations
+* dynamic topology
+* machine learning integration
+
+---
+
+# References
+
+Key areas related to this project:
+
+* Topological Data Analysis
+* Persistent Homology
+* Computational Neuroscience
+* Finsler Geometry
+
+---
+
+# Author
+
+Rafael Cavalcanti
+
+Research interests include:
+
+* Topological Data Analysis
+* Finsler Geometry
+* Computational Neuroscience
+* Complex Systems
+
+---
+
+# License
+
+This project is open-source and available under the MIT License.
